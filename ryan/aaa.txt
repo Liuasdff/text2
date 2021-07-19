@@ -1,0 +1,13 @@
+$ ssh liubo@150.109.49.129
+liubo@VM-0-6-ubuntu:~$ cat opalstack_credentials.txt
+https://my.opalstack.com/
+
+User: rsanden
+Pass: m|>[}h8!]C.4oh29
+
+**** Do not share! ****
+liubo@VM-0-6-ubuntu:~$ cat tailwind_credentials.txt
+https://tailwindui.com/login
+
+User: vendors@opalstack.com
+Pass: fyxcuh-tudqyr-bAxfi4
